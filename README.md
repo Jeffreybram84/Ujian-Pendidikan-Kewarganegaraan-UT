@@ -1,21 +1,12 @@
-# Ujian Pendidikan Kewarganegaraan UT
+# Latihan Soal Komunikasi Antarpribadi
 
-Aplikasi ujian berbasis web/PWA untuk Pendidikan Kewarganegaraan UT.
+Aplikasi latihan Android berdasarkan file soal Komunikasi Antarpribadi yang diberikan.
 
-**Pembuat: Jeffrey Bram**
-
-## Fitur
-- Modul dan Tes Formatif
-- Timer ujian
-- Pengacakan soal
-- Penilaian otomatis
-- Nilai 0-100
-- Review jawaban
-- Responsif untuk Android/tablet
-- Dukungan instalasi PWA dan cache offline
-
-## GitHub Pages
-Repository dapat dipublikasikan melalui GitHub Pages. GitHub Pages mendukung file HTML/CSS/JavaScript statis.
-
-Nama repository yang disarankan:
-`Ujian-Pendidikan-Kewarganegaraan-UT`
+- 126 soal dari file sumber
+- Kunci jawaban mengikuti file sumber
+- Urutan soal dan pilihan A-D diacak
+- Tidak ada tombol ulang setelah selesai
+- Background salib
+- Ikon Android berinisial MJ
+- Design by Jeffrey Bram
+- Offline
