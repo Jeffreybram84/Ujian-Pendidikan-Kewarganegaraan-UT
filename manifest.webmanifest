@@ -1,0 +1,10 @@
+{
+  "name": "Ujian Pendidikan Kewarganegaraan UT",
+  "short_name": "Ujian PKn UT",
+  "description": "Aplikasi ujian Pendidikan Kewarganegaraan UT. Pembuat: Jeffrey Bram.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#062b78",
+  "theme_color": "#062b78",
+  "icons": [{"src":"logo-mj.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
